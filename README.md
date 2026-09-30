@@ -1,4 +1,4 @@
-**AI-ML-and-GEN-AI-Track-Project-Template**
+**FitBuddy - AI Fitness Plan Generator using Gemini Models**
 
 **Repository Structure**
 
@@ -19,3 +19,4 @@
 8.Project Demonstration
 
 Replace the placeholder files with your team's project deliverables.
+
